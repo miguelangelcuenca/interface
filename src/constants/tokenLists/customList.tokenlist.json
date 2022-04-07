@@ -20,6 +20,14 @@
       "decimals": 2,
       "chainId": 42,
       "logoURI": "https://github.com/miguelangelcuenca/interface/blob/main/src/assets/logos/geminon.png"
+    },
+    {
+      "name": "Uniswap",
+      "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+      "symbol": "UNI",
+      "decimals": 18,
+      "chainId": 42,
+      "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
     }
   ]
 }
